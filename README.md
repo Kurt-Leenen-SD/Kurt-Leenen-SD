@@ -7,5 +7,5 @@
  - make friends
  - write code
 I hope we can get along!
-[Smile][Happy]
+![Smile][Happy]
 [Happy]: https://www.bradaronson.com/wp-content/uploads/2013/10/happy.jpg
