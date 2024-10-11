@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Kurt-Leenen-SD
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# About me (the writer of this code)
 
-<!---
-Kurt-Leenen-SD/Kurt-Leenen-SD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hey, I'm Kurt Leenen
+- I'm doing a Software Development study at Media College.
+- I'm a very chill dude who loves to
+ - help
+ - make friends
+ - write code
+I hope we can get along!
+[Smile][Happy]
+[Happy]: https://www.bradaronson.com/wp-content/uploads/2013/10/happy.jpg
